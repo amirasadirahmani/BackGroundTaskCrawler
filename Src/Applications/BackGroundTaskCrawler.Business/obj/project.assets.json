@@ -535,11 +535,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
+      "projectUniqueName": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
       "projectName": "BackGroundTaskCrawler.Applications.Business",
-      "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
+      "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
       "packagesPath": "C:\\Users\\a.asadi\\.nuget\\packages\\",
-      "outputPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\obj\\",
+      "outputPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.asadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -556,8 +556,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
-              "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj"
+            "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
+              "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj"
             }
           }
         }

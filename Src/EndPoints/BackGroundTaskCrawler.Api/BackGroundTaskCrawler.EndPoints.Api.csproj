@@ -11,16 +11,19 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Quartz" Version="3.5.0" />
+    <PackageReference Include="Quartz.Extensions.DependencyInjection" Version="3.5.0" />
+    <PackageReference Include="Quartz.Extensions.Hosting" Version="3.5.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Jobs\" />
     <Folder Include="Middlewares\" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\Applications\BackGroundTaskCrawler.Business\BackGroundTaskCrawler.Applications.Business.csproj" />
+    <ProjectReference Include="..\..\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\BackGroundTaskCrawler.Infrastructure.Utility.csproj" />
     <ProjectReference Include="..\..\Infrastructures\BackGroundTaskCrawler.Infrastructures.Persistanse\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj" />
   </ItemGroup>
 

@@ -401,6 +401,41 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "Microsoft.Extensions.FileProviders.Abstractions/2.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "2.1.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Hosting.Abstractions/2.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "2.1.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.1",
+          "Microsoft.Extensions.FileProviders.Abstractions": "2.1.1",
+          "Microsoft.Extensions.Logging.Abstractions": "2.1.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -638,6 +673,60 @@
           }
         }
       },
+      "Quartz/3.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "2.1.1",
+          "System.Configuration.ConfigurationManager": "4.7.0",
+          "System.Diagnostics.DiagnosticSource": "4.7.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Quartz.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Quartz.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Quartz.Extensions.DependencyInjection/3.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "2.1.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.1",
+          "Microsoft.Extensions.Options": "2.1.1",
+          "Quartz": "3.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Quartz.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Quartz.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Quartz.Extensions.Hosting/3.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Hosting.Abstractions": "2.1.1",
+          "Quartz.Extensions.DependencyInjection": "3.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Quartz.Extensions.Hosting.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Quartz.Extensions.Hosting.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/6.2.3": {
         "type": "package",
         "dependencies": {
@@ -727,7 +816,7 @@
           "System.Security.Permissions": "4.7.0"
         },
         "compile": {
-          "ref/netstandard2.0/_._": {
+          "ref/netstandard2.0/System.Configuration.ConfigurationManager.dll": {
             "related": ".xml"
           }
         },
@@ -843,7 +932,7 @@
           "System.Security.Principal.Windows": "4.7.0"
         },
         "compile": {
-          "ref/netstandard2.0/_._": {
+          "ref/netstandard2.0/System.Security.AccessControl.dll": {
             "related": ".xml"
           }
         },
@@ -902,7 +991,7 @@
           "System.Windows.Extensions": "4.7.0"
         },
         "compile": {
-          "ref/netcoreapp3.0/_._": {
+          "ref/netcoreapp3.0/System.Security.Permissions.dll": {
             "related": ".xml"
           }
         },
@@ -915,7 +1004,7 @@
       "System.Security.Principal.Windows/4.7.0": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp3.0/_._": {
+          "ref/netcoreapp3.0/System.Security.Principal.Windows.dll": {
             "related": ".xml"
           }
         },
@@ -963,7 +1052,7 @@
           "System.Drawing.Common": "4.7.0"
         },
         "compile": {
-          "ref/netcoreapp3.0/_._": {
+          "ref/netcoreapp3.0/System.Windows.Extensions.dll": {
             "related": ".xml"
           }
         },
@@ -1009,6 +1098,19 @@
         },
         "runtime": {
           "bin/placeholder/BackGroundTaskCrawler.Domains.Entities.dll": {}
+        }
+      },
+      "BackGroundTaskCrawler.Infrastructure.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BackGroundTaskCrawler.Domains.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BackGroundTaskCrawler.Infrastructure.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BackGroundTaskCrawler.Infrastructure.Utility.dll": {}
         }
       },
       "BackGroundTaskCrawler.Infrastructures.Persistanse/1.0.0": {
@@ -1552,6 +1654,32 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Microsoft.Extensions.FileProviders.Abstractions/2.1.1": {
+      "sha512": "UEQB5/QPuLYaCvScZQ9llhcks5xyEUKh41D615FoehRAF9UgGVmXHcCSOH8idHHLRoKm+OJJjEy1oywvuaL33w==",
+      "type": "package",
+      "path": "microsoft.extensions.fileproviders.abstractions/2.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.xml",
+        "microsoft.extensions.fileproviders.abstractions.2.1.1.nupkg.sha512",
+        "microsoft.extensions.fileproviders.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Hosting.Abstractions/2.1.1": {
+      "sha512": "kVVdHnOFJbcXxgZzrT6nwkrWZTHL+47LT59S9J2Jp0BNO3EQWNEZHUUZMb/kKFV7LtW+bp+EuAOPNUqEcqI++Q==",
+      "type": "package",
+      "path": "microsoft.extensions.hosting.abstractions/2.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.xml",
+        "microsoft.extensions.hosting.abstractions.2.1.1.nupkg.sha512",
+        "microsoft.extensions.hosting.abstractions.nuspec"
+      ]
+    },
     "Microsoft.Extensions.Logging/6.0.0": {
       "sha512": "eIbyj40QDg1NDz0HBW0S5f3wrLVnKWnDJ/JtZ+yJDFnDj90VoPuoPmFkeaXrtu+0cKm5GRAwoDf+dBWXK0TUdg==",
       "type": "package",
@@ -1912,6 +2040,52 @@
         "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.xml",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "Quartz/3.5.0": {
+      "sha512": "tgWAByEvwWC/CE4VXfrMgt7h5FXdFKIl9Sf5X/0d4yq1rsvSgiVbcAPdFUFAgIOOTcLTtRXp1rXBGqHukIWAgQ==",
+      "type": "package",
+      "path": "quartz/3.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net462/Quartz.dll",
+        "lib/net462/Quartz.xml",
+        "lib/net472/Quartz.dll",
+        "lib/net472/Quartz.xml",
+        "lib/netstandard2.0/Quartz.dll",
+        "lib/netstandard2.0/Quartz.xml",
+        "quartz-logo-small.png",
+        "quartz.3.5.0.nupkg.sha512",
+        "quartz.nuspec"
+      ]
+    },
+    "Quartz.Extensions.DependencyInjection/3.5.0": {
+      "sha512": "dlXLaHXTfI7hkAmoMtnB0j10RxFmESr0p8nyAvdvrWOb4vmeNMac39i4TUCmO2oqlDUhmbt/ZqDoQucOPkrvzg==",
+      "type": "package",
+      "path": "quartz.extensions.dependencyinjection/3.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Quartz.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.0/Quartz.Extensions.DependencyInjection.xml",
+        "quartz-logo-small.png",
+        "quartz.extensions.dependencyinjection.3.5.0.nupkg.sha512",
+        "quartz.extensions.dependencyinjection.nuspec"
+      ]
+    },
+    "Quartz.Extensions.Hosting/3.5.0": {
+      "sha512": "5to3zi9QFMjqRidmp+QvkdEDjozDiW0hUT8QZz0xsPK3mTZeJFXv35qSWCNb4wnw+XHT5e4WN9DnpN4qj6D3oA==",
+      "type": "package",
+      "path": "quartz.extensions.hosting/3.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Quartz.Extensions.Hosting.dll",
+        "lib/netstandard2.0/Quartz.Extensions.Hosting.xml",
+        "quartz-logo-small.png",
+        "quartz.extensions.hosting.3.5.0.nupkg.sha512",
+        "quartz.extensions.hosting.nuspec"
       ]
     },
     "Swashbuckle.AspNetCore/6.2.3": {
@@ -2489,6 +2663,11 @@
       "path": "../../Domains/BackGroundTaskCrawler.Entities/BackGroundTaskCrawler.Domains.Entities.csproj",
       "msbuildProject": "../../Domains/BackGroundTaskCrawler.Entities/BackGroundTaskCrawler.Domains.Entities.csproj"
     },
+    "BackGroundTaskCrawler.Infrastructure.Utility/1.0.0": {
+      "type": "project",
+      "path": "../../Infrastructures/BackGroundTaskCrawler.Infrastructure.Utility/BackGroundTaskCrawler.Infrastructure.Utility.csproj",
+      "msbuildProject": "../../Infrastructures/BackGroundTaskCrawler.Infrastructure.Utility/BackGroundTaskCrawler.Infrastructure.Utility.csproj"
+    },
     "BackGroundTaskCrawler.Infrastructures.Persistanse/1.0.0": {
       "type": "project",
       "path": "../../Infrastructures/BackGroundTaskCrawler.Infrastructures.Persistanse/BackGroundTaskCrawler.Infrastructures.Persistanse.csproj",
@@ -2498,8 +2677,12 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "BackGroundTaskCrawler.Applications.Business >= 1.0.0",
+      "BackGroundTaskCrawler.Infrastructure.Utility >= 1.0.0",
       "BackGroundTaskCrawler.Infrastructures.Persistanse >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.13",
+      "Quartz >= 3.5.0",
+      "Quartz.Extensions.DependencyInjection >= 3.5.0",
+      "Quartz.Extensions.Hosting >= 3.5.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -2509,11 +2692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj",
+      "projectUniqueName": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj",
       "projectName": "BackGroundTaskCrawler.EndPoints.Api",
-      "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj",
+      "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj",
       "packagesPath": "C:\\Users\\a.asadi\\.nuget\\packages\\",
-      "outputPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\obj\\",
+      "outputPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.asadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2530,11 +2713,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj": {
-              "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj"
+            "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj": {
+              "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj"
             },
-            "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj": {
-              "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj"
+            "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructure.Utility\\BackGroundTaskCrawler.Infrastructure.Utility.csproj": {
+              "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructure.Utility\\BackGroundTaskCrawler.Infrastructure.Utility.csproj"
+            },
+            "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj": {
+              "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj"
             }
           }
         }
@@ -2554,6 +2740,18 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[6.0.13, )"
+          },
+          "Quartz": {
+            "target": "Package",
+            "version": "[3.5.0, )"
+          },
+          "Quartz.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[3.5.0, )"
+          },
+          "Quartz.Extensions.Hosting": {
+            "target": "Package",
+            "version": "[3.5.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj",
+      "projectUniqueName": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj",
       "projectName": "BackGroundTaskCrawler.Domains.Entities",
-      "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj",
+      "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj",
       "packagesPath": "C:\\Users\\a.asadi\\.nuget\\packages\\",
-      "outputPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\obj\\",
+      "outputPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.asadi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,9 +1,9 @@
 using BackGroundTaskCrawler.Applications.Business;
 using BackGroundTaskCrawler.Domains.Entities;
 using BackGroundTaskCrawler.EndPoints.Api;
+using BackGroundTaskCrawler.EndPoints.Api.Jobs.Extentions;
 using BackGroundTaskCrawler.Infrastructures.Persistanse;
-using Microsoft.AspNetCore.Http;
-
+using Quartz;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
@@ -15,6 +15,14 @@ builder.Services.AddControllers(options =>
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddQuartz(config =>
+{
+    config.UseMicrosoftDependencyInjectionScopedJobFactory();
+
+    config.AddJobAndTrigger<BackGroundTaskCrawler.EndPoints.Api.Jobs.CrawlerJob>(builder.Configuration);
+});
+
+builder.Services.AddQuartzHostedService(config => config.WaitForJobsToComplete = true);
 
 builder.Services.AddDomain();
 builder.Services.AddApplication();

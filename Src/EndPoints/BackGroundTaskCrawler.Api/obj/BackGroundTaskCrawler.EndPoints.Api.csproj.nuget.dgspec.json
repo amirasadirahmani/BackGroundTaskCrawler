@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj": {}
+    "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj": {}
   },
   "projects": {
-    "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj": {
+    "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
+        "projectUniqueName": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
         "projectName": "BackGroundTaskCrawler.Applications.Business",
-        "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
+        "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
         "packagesPath": "C:\\Users\\a.asadi\\.nuget\\packages\\",
-        "outputPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\obj\\",
+        "outputPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.asadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
-                "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj"
+              "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
+                "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
+    "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj",
+        "projectUniqueName": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj",
         "projectName": "BackGroundTaskCrawler.Domains.Entities",
-        "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj",
+        "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj",
         "packagesPath": "C:\\Users\\a.asadi\\.nuget\\packages\\",
-        "outputPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\obj\\",
+        "outputPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.asadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj": {
+    "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj",
+        "projectUniqueName": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj",
         "projectName": "BackGroundTaskCrawler.EndPoints.Api",
-        "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj",
+        "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj",
         "packagesPath": "C:\\Users\\a.asadi\\.nuget\\packages\\",
-        "outputPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\obj\\",
+        "outputPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.asadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,11 +174,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj": {
-                "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj"
+              "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj": {
+                "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj"
               },
-              "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj": {
-                "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj"
+              "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructure.Utility\\BackGroundTaskCrawler.Infrastructure.Utility.csproj": {
+                "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructure.Utility\\BackGroundTaskCrawler.Infrastructure.Utility.csproj"
+              },
+              "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj": {
+                "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj"
               }
             }
           }
@@ -198,6 +201,18 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.13, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Quartz.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Quartz.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.5.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -227,14 +242,14 @@
         }
       }
     },
-    "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj": {
+    "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructure.Utility\\BackGroundTaskCrawler.Infrastructure.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj",
-        "projectName": "BackGroundTaskCrawler.Infrastructures.Persistanse",
-        "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj",
+        "projectUniqueName": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructure.Utility\\BackGroundTaskCrawler.Infrastructure.Utility.csproj",
+        "projectName": "BackGroundTaskCrawler.Infrastructure.Utility",
+        "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructure.Utility\\BackGroundTaskCrawler.Infrastructure.Utility.csproj",
         "packagesPath": "C:\\Users\\a.asadi\\.nuget\\packages\\",
-        "outputPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\obj\\",
+        "outputPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructure.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.asadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -251,8 +266,67 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
-                "projectPath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj"
+              "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
+                "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj",
+        "projectName": "BackGroundTaskCrawler.Infrastructures.Persistanse",
+        "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\BackGroundTaskCrawler.Infrastructures.Persistanse.csproj",
+        "packagesPath": "C:\\Users\\a.asadi\\.nuget\\packages\\",
+        "outputPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructures.Persistanse\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.asadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
+                "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj"
               }
             }
           }

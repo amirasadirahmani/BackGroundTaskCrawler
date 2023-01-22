@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lSO/1LFz6rhg5UwB4icxLvRPN0EZmMLpXrEUYGYQZAt3u37SR5Q911MHRCJD234tdXJw1K6N3S+leoycQ6eU+g==",
+  "dgSpecHash": "4sZAUzyH4yhR3y1zmD9z2s/nh7BX+Lm4dvoD+qs9ecCZgIXHHefD+LEo2bCJZEvxy+vpcKqk/PRRMguPXTTB+A==",
   "success": true,
-  "projectFilePath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
+  "projectFilePath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.asadi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\a.asadi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

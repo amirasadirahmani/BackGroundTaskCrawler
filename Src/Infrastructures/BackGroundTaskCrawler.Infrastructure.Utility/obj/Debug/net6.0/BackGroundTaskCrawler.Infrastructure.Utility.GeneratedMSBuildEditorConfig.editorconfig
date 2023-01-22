@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BackGroundTaskCrawler.Infrastructure.Utility
-build_property.ProjectDir = C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\
+build_property.ProjectDir = C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\

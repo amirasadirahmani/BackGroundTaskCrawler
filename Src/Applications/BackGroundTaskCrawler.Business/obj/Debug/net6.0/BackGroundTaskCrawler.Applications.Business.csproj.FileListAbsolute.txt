@@ -13,3 +13,18 @@ C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Applications\BackGroundTa
 C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\refint\BackGroundTaskCrawler.Applications.Business.dll
 C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.pdb
 C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\ref\BackGroundTaskCrawler.Applications.Business.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\bin\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.deps.json
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\bin\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\bin\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.pdb
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\bin\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\bin\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.pdb
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.csproj.AssemblyReference.cache
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.AssemblyInfoInputs.cache
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.AssemblyInfo.cs
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.csproj.CoreCompileInputs.cache
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.csproj.CopyComplete
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\refint\BackGroundTaskCrawler.Applications.Business.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.pdb
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Applications\BackGroundTaskCrawler.Business\obj\Debug\net6.0\ref\BackGroundTaskCrawler.Applications.Business.dll
