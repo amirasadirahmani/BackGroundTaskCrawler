@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b2aqaTH3/HlB8rFhSKM+zJLV13IgR8voFeEuFLrTJgs=",
+  "Source": "BackGroundTaskCrawler.EndPoints.Api",
+  "BasePath": "_content/BackGroundTaskCrawler.EndPoints.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUrzQQob4jW457c+DxROxh6czcH42oYwvvRBSiec9yjFlLFNzr7p2/0h28S5YO9dL/4nkxVbrEdshkQN6Fjjqw==",
+  "success": true,
+  "projectFilePath": "C:\\_dev\\BackGroundTaskSample\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.asadi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

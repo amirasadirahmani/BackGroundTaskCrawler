@@ -1,0 +1,12 @@
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\bin\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.deps.json
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\bin\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.dll
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\bin\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.pdb
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\obj\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.csproj.AssemblyReference.cache
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\obj\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\obj\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.AssemblyInfoInputs.cache
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\obj\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.AssemblyInfo.cs
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\obj\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.csproj.CoreCompileInputs.cache
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\obj\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.dll
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\obj\Debug\net6.0\refint\BackGroundTaskCrawler.Domains.Entities.dll
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\obj\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.pdb
+C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Domains\BackGroundTaskCrawler.Entities\obj\Debug\net6.0\ref\BackGroundTaskCrawler.Domains.Entities.dll
