@@ -153,3 +153,6 @@ C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\EndPoints\BackGr
 C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\EndPoints\BackGroundTaskCrawler.Api\bin\Debug\net6.0\Quartz.dll
 C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\EndPoints\BackGroundTaskCrawler.Api\bin\Debug\net6.0\Quartz.Extensions.DependencyInjection.dll
 C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\EndPoints\BackGroundTaskCrawler.Api\bin\Debug\net6.0\Quartz.Extensions.Hosting.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\EndPoints\BackGroundTaskCrawler.Api\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\EndPoints\BackGroundTaskCrawler.Api\bin\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\EndPoints\BackGroundTaskCrawler.Api\bin\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.pdb

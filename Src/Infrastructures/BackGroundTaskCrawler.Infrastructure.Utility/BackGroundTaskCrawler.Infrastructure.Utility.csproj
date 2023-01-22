@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.46" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Applications\BackGroundTaskCrawler.Business\BackGroundTaskCrawler.Applications.Business.csproj" />
     <ProjectReference Include="..\..\Domains\BackGroundTaskCrawler.Entities\BackGroundTaskCrawler.Domains.Entities.csproj" />
   </ItemGroup>
 

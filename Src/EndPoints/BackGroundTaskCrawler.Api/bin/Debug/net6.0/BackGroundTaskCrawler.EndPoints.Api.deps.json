@@ -9,6 +9,7 @@
       "BackGroundTaskCrawler.EndPoints.Api/1.0.0": {
         "dependencies": {
           "BackGroundTaskCrawler.Applications.Business": "1.0.0",
+          "BackGroundTaskCrawler.Infrastructure.Utility": "1.0.0",
           "BackGroundTaskCrawler.Infrastructures.Persistanse": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.13",
           "Quartz": "3.5.0",
@@ -72,6 +73,14 @@
           "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
             "assemblyVersion": "11.0.0.0",
             "fileVersion": "11.2.1.0"
+          }
+        }
+      },
+      "HtmlAgilityPack/1.11.46": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.46.0",
+            "fileVersion": "1.11.46.0"
           }
         }
       },
@@ -645,6 +654,16 @@
           "BackGroundTaskCrawler.Domains.Entities.dll": {}
         }
       },
+      "BackGroundTaskCrawler.Infrastructure.Utility/1.0.0": {
+        "dependencies": {
+          "BackGroundTaskCrawler.Applications.Business": "1.0.0",
+          "BackGroundTaskCrawler.Domains.Entities": "1.0.0",
+          "HtmlAgilityPack": "1.11.46"
+        },
+        "runtime": {
+          "BackGroundTaskCrawler.Infrastructure.Utility.dll": {}
+        }
+      },
       "BackGroundTaskCrawler.Infrastructures.Persistanse/1.0.0": {
         "dependencies": {
           "BackGroundTaskCrawler.Domains.Entities": "1.0.0",
@@ -697,6 +716,13 @@
       "sha512": "sha512-WqR2kt0OidUCg9xS+YOoiDmdCu7EnYLLgQb/bX+5fTTVor+90dWmr1OdJaWlLZvg2nbwV9EfxA9FZp91+JmQtg==",
       "path": "fluentvalidation.dependencyinjectionextensions/11.2.1",
       "hashPath": "fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512"
+    },
+    "HtmlAgilityPack/1.11.46": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dLMn4EVfJBHWmWK4Uh0XGD76FPLHI0qr2Tm0s1m/xmgiHb1JUb9zB8AzO8HtrkBBlMN6JfCUBYddhqC0hZNR+g==",
+      "path": "htmlagilitypack/1.11.46",
+      "hashPath": "htmlagilitypack.1.11.46.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",
@@ -1096,6 +1122,11 @@
       "sha512": ""
     },
     "BackGroundTaskCrawler.Domains.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackGroundTaskCrawler.Infrastructure.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

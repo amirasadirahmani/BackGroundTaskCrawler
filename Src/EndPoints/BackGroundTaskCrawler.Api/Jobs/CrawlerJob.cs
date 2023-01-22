@@ -18,7 +18,11 @@ namespace BackGroundTaskCrawler.EndPoints.Api.Jobs
         public async Task Execute(IJobExecutionContext context)
         {
             var getList = new LapTopCrawler();
-            //var response = await _mediator.Send(input);            
+            var productList = getList.startCrawlerasync().Result;
+            foreach (var item in productList)
+            {
+                await _mediator.Send(item);
+            }
             Console.WriteLine("CrawlerJob lunch");
         }
     }

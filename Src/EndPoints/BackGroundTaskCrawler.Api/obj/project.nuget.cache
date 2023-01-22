@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UQA/k3kn3u0ezB6ZigC+h7wkyeTAJHkQA9OHt/QPBxy0ar4SLseHGwbP6lXlgTYNJ+FEXihEC7MqJwps6Zpgrg==",
+  "dgSpecHash": "QSGXwwU044r8+dTzXJfVZEcdp+ZXkHDuxDed/DHVf18+WPrbSn1DlXJ18GW7QqcPrYEn8XzX0cV57kVPwW9DYg==",
   "success": true,
   "projectFilePath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\EndPoints\\BackGroundTaskCrawler.Api\\BackGroundTaskCrawler.EndPoints.Api.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\a.asadi\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\a.asadi\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
     "C:\\Users\\a.asadi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\a.asadi\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
     "C:\\Users\\a.asadi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\a.asadi\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\a.asadi\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

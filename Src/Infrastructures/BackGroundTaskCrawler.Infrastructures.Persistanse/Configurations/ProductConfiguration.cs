@@ -14,18 +14,18 @@ public class ProductConfiguration : IEntityTypeConfiguration<Product>
 
         builder
             .Property(p => p.ProductName)
-            .HasColumnType("nvarchar(128)")
+            .HasColumnType("nvarchar(256)")
             .IsRequired(false);
         
         builder
             .Property(p => p.Dimention)
-            .HasColumnType("varchar(64)")
+            .HasColumnType("nvarchar(64)")
             .IsRequired(false);
 
 
         builder
             .Property(p => p.Price)
-            .HasColumnType("decimal(12,0)")
+            .HasColumnType("nvarchar(64)")
             .IsRequired(false);
 
 
@@ -37,6 +37,7 @@ public class ProductConfiguration : IEntityTypeConfiguration<Product>
 
         builder
             .Property(p => p.Weight)
+            .HasColumnType("nvarchar(500)")
             .IsRequired(false);
 
     }

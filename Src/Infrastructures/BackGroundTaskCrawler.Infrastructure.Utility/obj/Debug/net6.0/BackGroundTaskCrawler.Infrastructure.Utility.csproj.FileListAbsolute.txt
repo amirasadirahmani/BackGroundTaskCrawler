@@ -13,3 +13,20 @@ C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Infrastructures\BackGroun
 C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\refint\BackGroundTaskCrawler.Infrastructure.Utility.dll
 C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.pdb
 C:\_dev\BackGroundTaskSample\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\ref\BackGroundTaskCrawler.Infrastructure.Utility.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\bin\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.deps.json
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\bin\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\bin\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.pdb
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\bin\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\bin\Debug\net6.0\BackGroundTaskCrawler.Domains.Entities.pdb
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.csproj.AssemblyReference.cache
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.AssemblyInfoInputs.cache
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.AssemblyInfo.cs
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.csproj.CoreCompileInputs.cache
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.csproj.CopyComplete
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\refint\BackGroundTaskCrawler.Infrastructure.Utility.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\BackGroundTaskCrawler.Infrastructure.Utility.pdb
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\obj\Debug\net6.0\ref\BackGroundTaskCrawler.Infrastructure.Utility.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\bin\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.dll
+C:\_dev\C# Test\BackgroundTaskCrawler\BackGroundTaskCrawler\Src\Infrastructures\BackGroundTaskCrawler.Infrastructure.Utility\bin\Debug\net6.0\BackGroundTaskCrawler.Applications.Business.pdb

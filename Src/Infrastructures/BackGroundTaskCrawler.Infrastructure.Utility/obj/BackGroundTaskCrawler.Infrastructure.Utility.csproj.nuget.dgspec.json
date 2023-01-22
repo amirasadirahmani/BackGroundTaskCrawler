@@ -4,6 +4,91 @@
     "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Infrastructures\\BackGroundTaskCrawler.Infrastructure.Utility\\BackGroundTaskCrawler.Infrastructure.Utility.csproj": {}
   },
   "projects": {
+    "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
+        "projectName": "BackGroundTaskCrawler.Applications.Business",
+        "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj",
+        "packagesPath": "C:\\Users\\a.asadi\\.nuget\\packages\\",
+        "outputPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.asadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
+                "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -89,6 +174,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj": {
+                "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Applications\\BackGroundTaskCrawler.Business\\BackGroundTaskCrawler.Applications.Business.csproj"
+              },
               "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj": {
                 "projectPath": "C:\\_dev\\C# Test\\BackgroundTaskCrawler\\BackGroundTaskCrawler\\Src\\Domains\\BackGroundTaskCrawler.Entities\\BackGroundTaskCrawler.Domains.Entities.csproj"
               }
@@ -104,6 +192,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

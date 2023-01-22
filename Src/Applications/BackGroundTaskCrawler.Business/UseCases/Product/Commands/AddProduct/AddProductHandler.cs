@@ -15,22 +15,24 @@ internal class AddProductHandler : IRequestHandler<AddProductRequest, AddProduct
     {
         _uow = uow;
         _productRepository = _uow.GetWriteRepository<Domains.Entities.Models.Product>();
+        _productReadRepository = _uow.GetReadRepository<Domains.Entities.Models.Product>();
         _mapper = mapper;
     }
 
     public async Task<AddProductResponse> Handle(AddProductRequest request, CancellationToken cancellationToken)
     {
         var existedProduct = await _productReadRepository.Get(x => x.ProductName == request.ProductName
-                                 && x.Price == request.Price
-                                 && x.Dimention == request.Dimention);
-        if (existedProduct==null)
+                                                                        && x.Price == request.Price
+                                                                        && x.Dimention == request.Dimention);
+
+
+        if (existedProduct == null)
         {
             var model = _mapper.Map<Domains.Entities.Models.Product>(request);
 
             await _productRepository.Create(model);
             await _uow.SaveAsync();
         }
-
 
         return new AddProductResponse();
     }

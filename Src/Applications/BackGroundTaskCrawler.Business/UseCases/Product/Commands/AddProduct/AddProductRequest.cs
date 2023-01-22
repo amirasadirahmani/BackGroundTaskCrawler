@@ -5,9 +5,9 @@ namespace BackGroundTaskCrawler.Applications.Business.UseCases.Product.Commands.
 
 public class AddProductRequest : IRequest<AddProductResponse>
 {
-    public string ProductName { get; set; }
-    public string ImageLink { get; set; }
-    public decimal Price { get; set; }
-    public string Dimention { get; set; }
-    public float Weight { get; set; }
+    public string? ProductName { get; set; }
+    public string? ImageLink { get; set; }
+    public string? Price { get; set; }
+    public string? Dimention { get; set; }
+    public string? Weight { get; set; }
 }
